@@ -1,0 +1,10 @@
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.csproj.AssemblyReference.cache
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.Properties.Resources.resources
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.csproj.GenerateResource.cache
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.csproj.CoreCompileInputs.cache
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.Anasayfa.resources
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\bin\Debug\WFALibraryProject.exe.config
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\bin\Debug\WFALibraryProject.exe
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\bin\Debug\WFALibraryProject.pdb
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.exe
+C:\Users\erdi_\OneDrive\Masaüstü\LibraryProject\WFALibraryProject\WFALibraryProject\obj\Debug\WFALibraryProject.pdb
